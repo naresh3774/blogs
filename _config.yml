@@ -21,9 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   your ultimate resource for innovation.
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "https://naresh3774.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: naresh3774
+linkedin_username: naresh3774
 github_username:  naresh3774
-
+author: "Naresh Sharma"
+copyright: "Naresh Sharma"
+title-logo: /images/title-logo.png
 # Build settings
 markdown: kramdown
 theme: minima
