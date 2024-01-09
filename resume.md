@@ -55,7 +55,7 @@ permalink: /Resume/
 
 <body>
 
-  <table style="margin:0 auto; width:100%;">
+  <table style="margin:0 auto; width:100%; background-color: #fff;">
     <thead>
       <tr>
         <td colspan="2"><strong><span style="font-size:16px;">Naresh Sharma<br />
@@ -67,7 +67,7 @@ permalink: /Resume/
   </table>
   <!-- Professional Summary -->
 
-  <table style="margin:0 auto; width:100%">
+  <table style="margin:0 auto; width:100%; background-color: #fff;">
     <thead>
       <tr>
         <th colspan="2">PROFESSIONAL SUMMARY</th>
@@ -103,7 +103,7 @@ permalink: /Resume/
   </table>
   <!-- Technical Skills -->
 
-  <table style="margin:0 auto; width:100%">
+  <table style="margin:0 auto; width:100%; background-color: #fff;">
     <thead>
       <tr>
         <th colspan="2">TECHNICAL SKILLS</th>
@@ -137,7 +137,7 @@ permalink: /Resume/
   </table>
   <!-- Professional Experience -->
 
-  <table style="margin:0 auto; width:100%">
+  <table style="margin:0 auto; width:100%; background-color: #fff;">
     <thead>
       <tr>
         <th colspan="2">PROFESSIONAL EXPERIENCE</th>
