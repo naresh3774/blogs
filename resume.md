@@ -18,42 +18,34 @@ permalink: /Resume/
       background-color: #fff;
       color: #000;
     }
-
     table {
       width: 100%;
       border-collapse: collapse;
       margin-bottom: 20px;
       background-color: #fff;
     }
-
     th,
     td {
       padding: 10px;
       text-align: left;
       border-bottom: 1px solid #ddd;
     }
-
     th {
       background-color: #DBDEE8;
       text-align: center;
       font-weight: bold;
     }
-
     strong {
       font-weight: bold;
     }
-
     a {
       color: #185fac;
       text-decoration: none;
     }
-
     a:hover {
       text-decoration: underline;
     }
-
     ul>li {
-      list-style: none;
       padding-left: 0;
       margin-top: 10px;
       margin-bottom: 10px;
@@ -66,9 +58,9 @@ permalink: /Resume/
   <table style="margin:0 auto; width:100%;">
     <thead>
       <tr>
-        <td colspan="2"><strong><span style="font-size:16px">Naresh Sharma<br />
+        <td colspan="2"><strong><span style="font-size:16px;">Naresh Sharma<br />
               Cloud/DevOps Engineer</span></strong></td>
-        <td><strong><span style="font-size:16px">Phone: XXX-XXX-XXXX<br />
+        <td><strong><span style="font-size:16px;">Phone: XXX-XXX-XXXX<br />
               Email: <a href="mailto:sharman0075@gmail.com">sharman0075@gmail.com</a></span></strong></td>
       </tr>
     </thead>

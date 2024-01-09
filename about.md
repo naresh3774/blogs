@@ -12,7 +12,7 @@ DevOps Engineer @ Dell Technologies
 
 </div>
  <br>
-Seasoned DevOps Engineer with 10 years of hands-on experience in architecting, deploying, and managing robust cloud infrastructure and cutting-edge DevOps solutions.
+Seasoned DevOps Engineer with 8 years of hands-on experience in architecting, deploying, and managing robust cloud infrastructure and cutting-edge DevOps solutions.
 
 Proficient in leveraging a spectrum of cloud platforms including AWS, Azure, and GCP to streamline CI/CD pipelines, optimize Kubernetes clusters, and automate scalable and secure environments.
 
