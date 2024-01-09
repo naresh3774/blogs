@@ -15,7 +15,7 @@ permalink: /Resume/
       line-height: 1.6;
       margin: 0;
       padding: 20px;
-      background-color: #f4f4f4;
+      background-color: #fff;
       color: #000;
     }
 
@@ -207,7 +207,7 @@ permalink: /Resume/
         <td colspan="2">
           <p><strong>DevOps Engineer </strong><br />
             <strong>Torch.AI, Remote</strong><br />
-            <strong>July 2021 &ndash; Feb 2022 </strong>
+            <strong>July 2021 - Feb 2022 </strong>
           </p>
           <ul>
             <li>Works closely with the technical and support teams to deliver and manage services with high uptime.</li>
