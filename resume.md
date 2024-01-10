@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /Resume/
+hide_header: true
 ---
 
 <html lang="en">
