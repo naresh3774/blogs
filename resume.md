@@ -78,9 +78,8 @@ permalink: /Resume/
         <td colspan="2">
           <ul>
             <li>With 8 years of IT experience spanning roles as a Cloud Engineer, AWS/DevOps Engineer, and Linux
-              Administrator, I excel in orchestrating end-to-end code configurations using DevOps tools. My expertise
-              extends to cloud platforms like AWS, Azure, and GCP, where I&#39;ve demonstrated proficiency in Elastic
-              Cloud Computing, Simple Storage Services, Lambda, and more.</li>
+              Administrator, I excel in orchestrating end-to-end code configurations using DevOps tools. </li>
+              <li>My expertise extends to cloud platforms like AWS, Azure, and GCP, where I&#39;ve demonstrated proficiency in Elastic Cloud Computing, Simple Storage Services, Lambda, and more.</li>
             <li>My proficiency spans a wide array of AWS services, including Elastic Cloud Computing, Lambda, VPC, RDS,
               IAM, and CloudWatch, where I&#39;ve excelled in architecting secure VPC solutions and managing IAM
               policies for organizations.</li>
@@ -244,7 +243,7 @@ permalink: /Resume/
         <td colspan="2">
           <p><strong>Cloud/DevOps Engineer</strong><br />
             <strong>SunPower Corp, Remote</strong><br />
-            <strong>June 2019 - July 2021</strong>
+            <strong>Sept 2019 - July 2021</strong>
           </p>
           <ul>
             <li>AWS and designed, built, and deployed a multitude of applications utilizing almost all the AWS stack
@@ -288,7 +287,7 @@ permalink: /Resume/
       <tr>
         <td colspan="2"><strong>Linux/DevOps Engineer</strong><br />
           <strong>Hilton Hotels Worldwide, Memphis, TN</strong><br />
-          <strong>April 2015 - Aug 2017</strong>
+          <strong>Feb 2017 - Sept 2019</strong>
           <ul>
             <li>Worked on migrating VMWARE VMs to AWS and worked on managing services like EC2, S3 Bucket, Route53, ELB,
               EBS utilizing Puppet.</li>
@@ -322,7 +321,7 @@ permalink: /Resume/
       <tr>
         <td colspan="2"><strong>Linux System Admin</strong><br />
           <strong>Hyla Mobile, Dallas, TX</strong><br />
-          <strong>Jan 2013 &ndash; March 2015</strong>
+          <strong>Jan 2015 - Feb 2017</strong>
           <ul>
             <li>Identify and drive continual improvement programs in the LINUX environment and improve service
               efficiency.</li>
